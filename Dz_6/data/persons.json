@@ -1,0 +1,33 @@
+[
+    {
+        "name":"Дидье Дрогба",
+        "number":"11",
+        "games":"688",
+        "photo":"http://fapl.ru/upload/players/drogba-v-liv373.jpg"
+    },
+    {
+        "name":"Джон Терри",
+        "number":"23",
+        "games":"761",
+        "photo":"https://lh6.googleusercontent.com/proxy/CsGMFeDqy6vN454uCO5ZRRee6goz3qyW23k3qbLXK7VnXG1nprkoZI-mLYWGf9r4o5YCaKVxsILetPETIaY"
+    },
+    {
+        "name":"Фрэнк Лэмпард",
+        "number":"10",
+        "games":"898",
+        "photo":"https://lh4.googleusercontent.com/proxy/aFOGnIL_KR9qUcz7PP8IaskBr4vyhpYUEmi9u5S4Lulu6X6tEPH6WQADowfLPf8Br4ULjrJHf4R7GWI0oY0NoXY"
+    },
+    {
+        "name":"Петр Чех",
+        "number":"1",
+        "games":"566",
+        "photo":"https://lh3.googleusercontent.com/proxy/kQKHGEXVfzRZ2RcmgqSON-SWfxSp-ISETtpGASeaHB8VRrhh4UTnSvek7L4ruRTtlBScyjQQCSSX_Y8hCQ"
+    },
+    {
+        "name":"Майкл Эссьен",
+        "number":"15",
+        "games":"545",
+        "photo":"https://cdnn21.img.ria.ru/images/rsport/59640/59/596405991_0:0:0:0_650x0_80_0_0_23f2ab42bee5b82235d5d0d702930d92.jpg"
+    }
+    
+]
