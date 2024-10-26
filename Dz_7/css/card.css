@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif; /* Шрифт для всей страницы */
+    margin: 0; /* Убираем отступы */
+    padding: 0;
+    display: flex;
+    flex-direction: column; /* Вертикальное выравнивание элементов */
+    min-height: 100vh; /* Минимальная высота на всю высоту экрана */
+}
+
+header, footer {
+    background-color: #f8f9fa; /* Цвет фона для хедера и футера */
+    text-align: center; /* Центрируем текст */
+    padding: 20px; /* Отступы внутри */
+}
+
+.cards-wrapper {
+    flex: 1; /* Занимает оставшееся пространство */
+    display: flex;
+    flex-wrap: wrap; /* Позволяет элементам переноситься на новую строку */
+    justify-content: space-around; /* Равномерно распределяем карточки */
+    padding: 20px;
+}
+
+.content {
+    border: 1px solid #ddd; /* Рамка вокруг карточки */
+    border-radius: 5px; /* Закругленные углы */
+    margin: 10px; /* Отступы между карточками */
+    padding: 20px; /* Внутренние отступы */
+    width: 300px; /* Ширина карточки */
+    text-align: center; /* Центрируем текст внутри карточки */
+}
+
+img {
+    width: 100%; /* Изображение занимает 100% ширины карточки */
+    height: auto; /* Высота автоматически подстраивается */
+    border-radius: 5px; /* Закругленные углы изображения */
+}
+
+
+
+
+
+
